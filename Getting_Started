@@ -1,0 +1,16 @@
+# Installation Guide 
+
+## Installing Anaconda
+For this course, we shall use the anaconda distribution, a Python/R data science distribution containing conda. 
+The [Anaconda Naviagator](https://docs.anaconda.com/free/navigator/) is a desktop graphical user interface(GUI) included in Anaconda Distribution that allows you to launch applications and manage conda packages, environments, and channels without using command line interface (CLI) commands. Navigator can search for packages on Anaconda.org or in a local Anaconda Repository. It is available for Windows, macOS, and Linux.
+
+Instructions on how to install the Anaconda Navigator are given [here](https://docs.anaconda.com/free/anaconda/install/)
+
+Note: For visual learners, you can use this [youtube tutorial](https://www.youtube.com/watch?v=WUeBzT43JyY) to insall the anaconda navigator on your machine. 
+
+## Launching a Jupter Notebook
+Jupyter Notebook is a web-based development application that you can launch from Navigator. It provides a fast interactive environment for prototyping and explaining code, exploring and visualizing data, and sharing ideas with others. For this course, this is the main application under the anaconda distribution that we shall be using to interact with data. 
+
+### Task One
+Watch this [video](https://www.youtube.com/watch?v=WUeBzT43JyY&t=232s) or read this [article](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) on how to use Jupypter Notebook.
+Launch the Jupyter Notebook on Anaconda and save a new Python3 filed named  "Hello World" in a new folder named "Data Science".
